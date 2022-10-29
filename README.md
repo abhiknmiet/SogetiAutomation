@@ -8,7 +8,9 @@ testAutomation is a Cucumber BDD framework developed with Selenium and Java.
 
 1. Import the project as Maven project in Eclipse IDE.
 
-   Go to File-->Import-->Maven-->Existing Maven Project-->Select the unzipped project from system-->Do next -->next-->Finish.
+   1st Way:Go to File-->Import-->Maven-->Existing Maven Project-->Select the unzipped project from system-->Do next -->next-->Finish.
+   
+   2nd Way to Import Project:Go to File-->Import-->Git-->Projects from Git-->Clone URI-->Put github url-->no user and password-->Next->Finish.
 
    It will finish importing and Building the Maven project in 1-2 minute time.
    
